@@ -1,4 +1,4 @@
-# BeatMaker-App
+# BeatsForge-App
 A pure javascript web app for making beats.
 
 # Features
